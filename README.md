@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @machmol
-- 👀 I’m interested in Unity, and c# in general.
+- 👀 I’m interested in Unity, and c# in general, HTML and CSS
 - 🌱 I’m currently learning c#, .Net
 
 <!---
